@@ -1,0 +1,8 @@
+{
+  " nom " : " BotMan " ,
+  " version " : " 1.0.0 " ,
+  " description " : " Mon propre robot Discord " ,
+  " main " : " bot.js " ,
+  " auteur " : " RunmanGaming " ,
+  " dépendances " : {}
+}
